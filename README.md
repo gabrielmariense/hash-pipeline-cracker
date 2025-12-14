@@ -62,7 +62,7 @@ python3 hashcracker.py wordlist.txt hashes.txt -p md5,sha512
 ## 📄 hashes.txt
 
 - Uma hash por linha  
-- Deve conter o **texto final** gerado pelo pipeline  
+- Deve conter o **texto final** que será gerado pelo pipeline  
 
 ---
 
@@ -77,4 +77,4 @@ Toda responsabilidade pelo uso indevido é do usuário.
 
 ## 👤 Autor
 
-Desenvolvido por **Gabriel**, com foco em estudos de **pentest, CTFs e segurança ofensiva**.
+Desenvolvido por **Gabriel Mariense**, com foco em estudos de **pentest, CTFs e segurança ofensiva**.
