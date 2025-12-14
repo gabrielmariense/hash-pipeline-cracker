@@ -1,4 +1,4 @@
-# 🔐 Hashcracker
+# 🔐 Hashcracker [PT](https://github.com/gabrielmariense/hash-pipeline-cracker) | [EN](https://github.com/gabrielmariense/hash-pipeline-cracker/blob/main/README_EN.md)
 
 Python tool for hash cracking based on **configurable encoding and hashing pipelines**.
 
