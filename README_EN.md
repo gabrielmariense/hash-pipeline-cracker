@@ -73,7 +73,7 @@ python3 hashcracker.py wordlist.txt hashes.txt -p md5,sha512
 ## 📄 hashes.txt
 
 - One hash per line  
-- Must contain the **exact final text output** produced by the pipeline  
+- Must contain the **exact final text output** that will be produced by the pipeline  
 
 ---
 
@@ -88,4 +88,4 @@ The user is solely responsible for any misuse.
 
 ## 👤 Author
 
-Developed by **Gabriel**, focused on studies in **pentesting, CTFs, and offensive security**, with emphasis on real-world hash and encoding chains.
+Developed by **Gabriel Mariense**, focused on studies in **pentesting, CTFs, and offensive security**, with emphasis on real-world hash and encoding chains.
